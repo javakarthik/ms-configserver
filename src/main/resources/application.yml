@@ -53,7 +53,7 @@ spring:
     bus:
       enabled: true
   rabbitmq:
-    host: cat.rmq.cloudamqp.com
+    host: chimpanzee.rmq.cloudamqp.com
     port: 5672
 #    virtual-host:
 #    username:
