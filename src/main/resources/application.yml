@@ -27,7 +27,7 @@ spring:
     config:
       server:
         git :
-          uri: https://bitbucket.org/asimio/demo-config-properties
+          uri: https://github.com/javakarthik/ms-config-properties
 
 ---
 spring:
